@@ -1,0 +1,112 @@
+       <li class="project">
+                 <div class="project__wrapper">
+                     <img src="assets/Undraw_Books.svg" class="project__img" alt="">
+                     <div class="project__wrapper--bg"></div>
+                     <div class="project__description">
+                         <h3 class="project__description--title">
+                             E-Commerce Website
+                         </h3>
+                         <h4 class="project__description--sub-title">
+                             Html, CSS, JavaScript, React, Skeleton Loading State
+                         </h4>
+                         <p class="project__description--para">
+                            I have created a fully functioning responsive website
+                            using HTML, CSS, JavaScript and React.
+                         </p>
+                         <div class="project__description--links">
+                             <a href="https://library-react-beige.vercel.app/" target="_blank" class="project__description--link">
+                                <i class="fas fa-link"></i>
+                             </a>
+                             <a href="https://github.com/S-J-K123" target="_blank" class="project__description--link">
+                                <i class="fab fa-github"></i>
+                                
+                             </a>
+                         </div>
+                     </div>
+                 </div>
+             </li>
+
+
+
+
+
+
+             <li class="project__2">
+                <div class="project__wrapper">
+                    <img  src="assets/img port 3.PNG" class="project__img" alt="">
+                    <div class="project__wrapper--bg"></div>
+                    <div class="project__description">
+                        <h3 class="project__description--title">
+                           Email Developing
+                        </h3>
+                        <h4 class="project__description--sub-title">
+                            Html, CSS
+                        </h4>
+                        <p class="project__description--para">
+                            I have created emails from scratch that are fully responsive using HTML and CSS
+                        </p>
+                        <div class="project__description--links">
+                            <a href="https://shabnamjabeen1998.wixsite.com/my-site" target="_blank" class="project__description--link">
+                               <i class="fas fa-link"></i>
+                            </a>
+                            <a href="https://github.com/S-J-K123" target="_blank" class="project__description--link">
+                               <i class="fab fa-github"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+            
+            <li class="project__2">
+                <div class="project__wrapper">
+                    <img  src="assets/movies 1.png" class="project__img" alt="">
+                    <div class="project__wrapper--bg"></div>
+                    <div class="project__description">
+                        <h3 class="project__description--title">
+                           Movies Website
+                        </h3>
+                        <h4 class="project__description--sub-title">
+                            Html, CSS, JavaScript, React, Skeleton Loading State, React Routing.
+                        </h4>
+                        <p class="project__description--para">
+                            I have created a Movie website by fetching a real-life API.
+                        </p>
+                        <div class="project__description--links">
+                            <a href="https://react-final-project-f5dm-c9mpk0jbo-s-j-k123.vercel.app/" target="_blank" class="project__description--link">
+                               <i class="fas fa-link"></i>
+                            </a>
+                            <a href="https://github.com/S-J-K123" target="_blank" class="project__description--link">
+                               <i class="fab fa-github"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+
+            <li class="project__2">
+                <div class="project__wrapper">
+                    <img  src="assets/NFT.png" class="project__img" alt="">
+                    <div class="project__wrapper--bg"></div>
+                    <div class="project__description">
+                        <h3 class="project__description--title">
+                           Virtual Internship
+                        </h3>
+                        <h4 class="project__description--sub-title">
+                            Html, CSS, JavaScript, React, Skeleton Loading State, React Routing.
+                        </h4>
+                        <p class="project__description--para">
+                            I have created a dynamic NFT website by fetching an API.
+                        </p>
+                        <div class="project__description--links">
+                            <a href="https://shabnam-internship-ijfbgqwg0-s-j-k123.vercel.app/" target="_blank" class="project__description--link">
+                               <i class="fas fa-link"></i>
+                            </a>
+                            <a href="https://github.com/S-J-K123" target="_blank" class="project__description--link">
+                               <i class="fab fa-github"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </li>
